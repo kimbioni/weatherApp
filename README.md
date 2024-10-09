@@ -30,6 +30,10 @@ Este é um aplicativo simples que fornece as condições meteorológicas de qual
    - **Noite**: Se a hora local está entre 20h e 5h, o fundo da card fica escuro, e o ícone do clima muda para representar a noite (como uma lua crescente).
 5. **Ícones do Clima**: O ícone de clima muda de acordo com as condições meteorológicas (ex: sol, nuvens, chuva, névoa).
 
+## Aplicativo em funcionamento
+
+![Weather App](images/Aplicativo.jpg)
+
 ## Como Usar
 
 1. Clone o repositório para seu computador:
